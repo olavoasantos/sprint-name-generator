@@ -32,14 +32,14 @@
   ],
   "entries": [
     {
-      "key": "README.mdx",
+      "key": "src/README.mdx",
       "value": {
         "name": "Sprint name generator",
         "route": "/",
-        "id": "075c8e9dd56c748f3da128a33861a770",
-        "filepath": "README.mdx",
+        "id": "0b7664461c2bfe534e47e5dfe6158416",
+        "filepath": "src/README.mdx",
         "link": "",
-        "slug": "readme",
+        "slug": "src-readme",
         "menu": "",
         "headings": [
           {

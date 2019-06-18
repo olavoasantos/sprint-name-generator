@@ -1,6 +1,6 @@
 export const imports = {
-  'README.mdx': () =>
+  'src/README.mdx': () =>
     import(
-      /* webpackPrefetch: true, webpackChunkName: "readme" */ 'README.mdx'
+      /* webpackPrefetch: true, webpackChunkName: "src-readme" */ 'src/README.mdx'
     ),
 }
