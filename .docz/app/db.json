@@ -10,26 +10,6 @@
     "themeConfig": {},
     "separator": "-"
   },
-  "props": [
-    {
-      "key": "src/Generator.jsx",
-      "value": [
-        {
-          "description": "",
-          "methods": [],
-          "props": {
-            "names": {
-              "defaultValue": {
-                "value": "''",
-                "computed": false
-              },
-              "required": false
-            }
-          }
-        }
-      ]
-    }
-  ],
   "entries": [
     {
       "key": "src/README.mdx",
@@ -49,6 +29,17 @@
           }
         ]
       }
+    }
+  ],
+  "props": [
+    {
+      "key": "src/Generator.jsx",
+      "value": [
+        {
+          "description": "",
+          "methods": []
+        }
+      ]
     }
   ]
 }
